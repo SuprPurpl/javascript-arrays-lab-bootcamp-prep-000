@@ -56,6 +56,6 @@ function removeLastKitten(){
 //Test 8: Remove the first Kitten
 
 function removeFirstKitten(){
-
+return kittens.slice(1,3);
 }
 
