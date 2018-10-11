@@ -49,7 +49,7 @@ function prependKitten(){
 //Test 7: Remove the last Kitten
 
 function removeLastKitten(){
-  
+  return kittens.slice(0,2);
 }
 
 
